@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Oswald-Regular";
+  src: url("../font/Oswald/static/Oswald-Regular.ttf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Oswald-Medium";
+  src: url("../font/Oswald/static/Oswald-Medium.ttf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Oswald-Bold";
+  src: url("../font/Oswald/static/Oswald-Bold.ttf");
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "Quicksand-Regular";
+  src: url("../font/Quicksand/static/Quicksand-Regular.ttf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Quicksand-Medium";
+  src: url("../font/Quicksand/static/Quicksand-Medium.ttf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Quicksand Bold";
+  src: url("../font/Quicksand/static/Quicksand-Bold.ttf");
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "Roboto Regular";
+  src: url("../font/Roboto/static/Roboto-Regular.ttf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Roboto Medium";
+  src: url("../font/Roboto/static/Roboto-Medium.ttf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Roboto Bold";
+  src: url("../font/Roboto/static/Roboto-Bold.ttf");
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "SourceSans Regular";
+  src: url("../font/Source_Sans_3/static/SourceSans3-Regular.ttf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "SourceSans Medium";
+  src: url("../font/Source_Sans_3/static/SourceSans3-Medium.ttf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "SourceSans Bold";
+  src: url("../font/Source_Sans_3/static/SourceSans3-Bold.ttf");
+  font-weight: 900;
+}

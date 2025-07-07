@@ -1,0 +1,16 @@
+.emoji {
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.emoji:hover {
+  transform: scale(1.2);
+}
+
+.emoji.selected {
+  box-shadow: 0 0 10px #ff9800;
+  border-radius: 50%;
+  transform: scale(1.2);
+}
